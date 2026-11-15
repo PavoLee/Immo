@@ -1,18 +1,30 @@
 # Audio Teile: Kako iscijeliti duh i tijelo
 
-Für Google AI Studio (Gemini 2.5 Flash Preview TTS, The Patient Teacher, Enceladus, Sample Context „read in croatian“, Temperature 1.1). Überschriften der Prinzipien sind schon in normale Schreibweise umgewandelt.
+Gliederung: ein Teil = eine Überschrift mit ihrem Text. Einstellungen: Google AI Studio, Gemini 2.5 Flash Preview TTS, The Patient Teacher, Enceladus, Sample Context „read in croatian“, Temperature 1.1.
 
-| Nr. | Dateiname | Inhalt | Wörter |
+| Nr. | Dateiname | Überschrift | Wörter |
 |---|---|---|---|
-| 01 | 01_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Vaše tijelo govori ono što vaš um prešućuje: tajna Louise Hay bis Osam principa koji mijenjaju odnos prema sebi | 499 |
-| 02 | 02_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Vaše misli grade vašu stvarnost. bis Opraštanje je dar koji dajete sebi. | 486 |
-| 03 | 03_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Zrcalo može postati vaš najbolji prijatelj. bis Otpor je znak da ste blizu promjene. | 477 |
-| 04 | 04_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Priče ljudi koji su izabrali ljubav umjesto kritike bis Pitanja za refleksiju | 443 |
-| 05 | 05_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Moj prvi pogled u zrcalo bis Najvažniji odnos u vašem životu jest onaj sa sobom | 393 |
+| 01 | 01_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Vaše tijelo govori ono što vaš um prešućuje: tajna Louise Hay | 256 |
+| 02 | 02_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Moć promjene uvijek je u sadašnjem trenutku | 196 |
+| 03 | 03_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Osam principa koji mijenjaju odnos prema sebi | 47 |
+| 04 | 04_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Vaše misli grade vašu stvarnost. | 120 |
+| 05 | 05_Kako_iscijeliti_duh_i_tijelo_Audio.wav | U korijenu je manjak ljubavi prema sebi. | 133 |
+| 06 | 06_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Kritika vas drži na mjestu, odobravanje vas pokreće. | 110 |
+| 07 | 07_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Opraštanje je dar koji dajete sebi. | 123 |
+| 08 | 08_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Zrcalo može postati vaš najbolji prijatelj. | 125 |
+| 09 | 09_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Tijelo govori ono što um prešućuje. | 126 |
+| 10 | 10_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Afirmacije i vizualizacija grade novi unutarnji glas. | 116 |
+| 11 | 11_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Otpor je znak da ste blizu promjene. | 110 |
+| 12 | 12_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Priče ljudi koji su izabrali ljubav umjesto kritike | 162 |
+| 13 | 13_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Praktični savjeti | 65 |
+| 14 | 14_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Konkretni koraci | 64 |
+| 15 | 15_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Česte greške | 77 |
+| 16 | 16_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Pitanja za refleksiju | 75 |
+| 17 | 17_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Moj prvi pogled u zrcalo | 174 |
+| 18 | 18_Kako_iscijeliti_duh_i_tijelo_Audio.wav | Najvažniji odnos u vašem životu jest onaj sa sobom | 219 |
 
 ## Teil 01
 
-```
 Vaše tijelo govori ono što vaš um prešućuje: tajna Louise Hay
 
 Zamislite da u sebi nosite rečenicu koju ponavljate tisućama puta, a da je nikada niste ni primijetili. Rečenicu koja tiho utječe na vaše zdravlje, vaše odnose i vaš novac. Danas učimo kako tu rečenicu pronaći i kako je zamijeniti novom.
@@ -27,6 +39,9 @@ Danas učimo kako prepoznati misli koje vas drže na mjestu, zašto je ljubav pr
 
 Važno je reći: ovo je naša osobna analiza knjige, ono što smo sami zapazili i kako smo je protumačili. Sve što kažemo naše je mišljenje i ne treba ga uzimati kao profesionalni savjet, a posebno ne kao zamjenu za liječnika. Ideje iz ove knjige vidimo kao podršku vašem zdravlju, a ne kao zamjenu za medicinu.
 
+
+## Teil 02
+
 Moć promjene uvijek je u sadašnjem trenutku
 
 Prema našoj interpretaciji, cijela knjiga počiva na jednoj jednostavnoj ideji: ono što dugo vjerujete o sebi postaje vaše iskustvo života. Ako duboko vjerujete da vas nitko ne cijeni, primjećivat ćete samo situacije koje to potvrđuju. Ako vjerujete da zaslužujete dobro, počet ćete vidjeti prilike koje ste prije previdjeli.
@@ -37,14 +52,16 @@ Treća ideja, možda i najljepša: moć promjene uvijek je u sadašnjem trenutku
 
 Vrijednost knjige je u tome što ne traži godine pripreme. Traži samo vašu spremnost. Već danas možete primijetiti jednu kritičnu misao o sebi i zamijeniti je blažom. Već danas možete se pogledati u oči i reći sebi nešto lijepo. Upravo tako počinje iscjeljenje: malim, svakodnevnim izborima.
 
+
+## Teil 03
+
 Osam principa koji mijenjaju odnos prema sebi
 
 Sada prolazimo kroz osam principa koje smo izdvojili iz knjige. Svaki od njih nosi jednu jasnu ideju i jednu konkretnu vježbu. Neki će vam se odmah učiniti bliskima, a neki će izazvati otpor. Upravo ti drugi često nose najveću poruku.
-```
 
-## Teil 02
 
-```
+## Teil 04
+
 Vaše misli grade vašu stvarnost.
 
 Svaka misao koju često ponavljate postaje staza kojom vaš um najradije hoda. Ako svako jutro započnete rečenicom „Opet neću stići“, vaš će um cijeli dan tražiti dokaze da je to istina. Podsvijest ne raspravlja s vama, ona jednostavno prihvaća ono što joj ponavljate.
@@ -52,6 +69,9 @@ Svaka misao koju često ponavljate postaje staza kojom vaš um najradije hoda. A
 Zamislite Marka, koji prije svakog sastanka u sebi kaže: „Sigurno ću se zbuniti.“ Tijelo reagira, glas mu zadrhti i on se zaista zbuni. Ista situacija, ali s mišlju „Pripremio sam se i dat ću najbolje što mogu“, izgleda potpuno drugačije.
 
 Kako to primijeniti: sljedeća tri dana pratite svoj unutarnji dijalog. Zapišite tri rečenice koje najčešće govorite sebi. Uz svaku napišite novu, blažu i istinitu rečenicu koju biste rado čuli od dobrog prijatelja.
+
+
+## Teil 05
 
 U korijenu je manjak ljubavi prema sebi.
 
@@ -61,6 +81,9 @@ Većinu takvih uvjerenja pokupili smo u djetinjstvu, od ljudi koji su i sami uč
 
 Kako to primijeniti: svaki dan učinite jednu malu stvar kojom pokazujete da vam je stalo do sebe. Zdrav obrok, šetnja na suncu, deset minuta tišine ili jednostavno odlazak na spavanje na vrijeme. Ljubav prema sebi ne počinje velikim riječima, nego malim djelima.
 
+
+## Teil 06
+
 Kritika vas drži na mjestu, odobravanje vas pokreće.
 
 Mnogi vjeruju da će se promijeniti ako budu dovoljno strogi prema sebi. Knjiga nudi suprotnu ideju: kritika nikoga nije trajno promijenila. Ona samo stvara napetost i strah od pogreške. Promjena dolazi kada sebe počnete prihvaćati upravo onakvima kakvi ste danas.
@@ -69,6 +92,9 @@ Zamislite dijete koje uči hodati. Nitko mu ne viče kad padne. Pljeskamo mu i p
 
 Kako to primijeniti: kad god primijetite da sebe kritizirate, zastanite i recite: „U procesu sam promjene i to je u redu.“ Napravite i popis svojih kvaliteta i svega što ste već prebrodili. Čitajte ga u danima kad vam je teško.
 
+
+## Teil 07
+
 Opraštanje je dar koji dajete sebi.
 
 Opraštanje je jedna od najvažnijih tema knjige. Ne znači da odobravate ono što se dogodilo, niti da se morate pomiriti s osobom koja vas je povrijedila. Znači da odlučujete prestati nositi teret koji vas iscrpljuje.
@@ -76,11 +102,10 @@ Opraštanje je jedna od najvažnijih tema knjige. Ne znači da odobravate ono š
 Dugotrajna ogorčenost slična je kamenu koji godinama nosite u džepu. Onaj tko vas je povrijedio odavno je otišao dalje, a kamen je i dalje kod vas. I istraživanja o opraštanju pokazuju da ljudi koji uče opraštati često osjećaju manje stresa i ljutnje.
 
 Kako to primijeniti: napišite pismo osobi kojoj želite oprostiti. Ne morate ga poslati. Zapišite sve što osjećate, a na kraju dodajte: „Puštam to. Slobodan sam“, odnosno „Slobodna sam.“ Na popis stavite i sebe, jer je često najteže oprostiti upravo sebi.
-```
 
-## Teil 03
 
-```
+## Teil 08
+
 Zrcalo može postati vaš najbolji prijatelj.
 
 Rad sa zrcalom vjerojatno je najpoznatija vježba Louise Hay. Stanete pred zrcalo, pogledate se u oči i izgovorite nešto lijepo o sebi. Zvuči jednostavno, ali većini ljudi prvi put bude neugodno. Neki se nasmiju, neki zaplaču, a neki brzo skrenu pogled.
@@ -88,6 +113,9 @@ Rad sa zrcalom vjerojatno je najpoznatija vježba Louise Hay. Stanete pred zrcal
 Upravo ta nelagoda pokazuje gdje se opiremo ljubavi prema sebi. Zrcalo vam vrlo iskreno pokazuje kakav odnos imate sa sobom. S vremenom pogled postaje mekši, a ono što je bilo teško pretvara se u mali, topli ritual.
 
 Kako to primijeniti: svako jutro, dok perete zube ili se češljate, pogledajte se u oči i recite: „Volim te.“ Ako je to još preteško, recite: „Spreman sam učiti voljeti te“, odnosno „Spremna sam.“ Ostanite s osjećajem koji se pojavi, bez osuđivanja.
+
+
+## Teil 09
 
 Tijelo govori ono što um prešućuje.
 
@@ -97,6 +125,9 @@ Mi taj popis ne čitamo kao medicinsku dijagnozu, nego kao pitanje koje vrijedi 
 
 Kako to primijeniti: kada osjetite napetost u tijelu, zatvorite oči, nekoliko puta duboko udahnite i zamislite toplo, zlatno svjetlo koje ispunjava to mjesto. Uz to recite sebi: „Slušam svoje tijelo i brinem se o njemu.“
 
+
+## Teil 10
+
 Afirmacije i vizualizacija grade novi unutarnji glas.
 
 Afirmacija je kratka, pozitivna rečenica u sadašnjem vremenu kojom svjesno birate novu misao. Ne radi se o tome da se zavaravate, nego o tome da svom umu ponudite novu stazu kojom može hodati. Vizualizacija tome dodaje sliku: u mašti vidite sebe kako mirno i sigurno prolazite kroz dan.
@@ -105,6 +136,9 @@ Dobre afirmacije su jednostavne. Na primjer: „Život me podržava.“ „Sve s
 
 Kako to primijeniti: odmah nakon buđenja, prije nego što uzmete mobitel, provedite jednu minutu zamišljajući kako vaš dan dobro protječe. Zatim izgovorite jednu afirmaciju koja vam danas najviše treba.
 
+
+## Teil 11
+
 Otpor je znak da ste blizu promjene.
 
 Kada počnete mijenjati stare obrasce, gotovo se uvijek pojavi otpor. Um pronalazi izgovore: „Ovo je glupo“, „Nemam vremena“, „Kod mene to ne djeluje.“ Prema našoj interpretaciji knjige, otpor nije znak da ste na krivom putu, nego da ste dotaknuli nešto važno.
@@ -112,11 +146,10 @@ Kada počnete mijenjati stare obrasce, gotovo se uvijek pojavi otpor. Um pronala
 Iza otpora najčešće stoji strah od nepoznatog. Stari obrasci možda bole, ali su poznati. Zato je dovoljno početi s vrlo malom spremnošću. Čak i rečenica „Spreman sam razmisliti o promjeni“ otvara vrata.
 
 Kako to primijeniti: kad osjetite otpor, zapitajte se: „Čega se zapravo bojim?“ Zatim napravite najmanji mogući korak i proslavite ga. Sjeme ne postaje stablo preko noći, ali raste svaki dan.
-```
 
-## Teil 04
 
-```
+## Teil 12
+
 Priče ljudi koji su izabrali ljubav umjesto kritike
 
 Najpoznatija priča iz knjige jest priča same autorice. Louise Hay opisala je kako je, nakon što je čula tešku dijagnozu, počela intenzivno raditi na sebi: opraštanjem, afirmacijama, promjenom prehrane i radom s terapeutom. Prema njezinim riječima, nakon nekoliko mjeseci osjećala se zdravom.
@@ -126,6 +159,9 @@ Ovu priču shvaćamo kao svjedočanstvo njezine vjere i snage, a ne kao poruku d
 Mnogi čitatelji opisuju slična iskustva. Jedna žena godinama nije mogla podnijeti vlastiti odraz. Prvih dana pred zrcalom samo je plakala. Ali nastavila je, dan za danom. Nakon nekoliko mjeseci počela je birati odnose i posao koji je podržavaju, a ne iscrpljuju.
 
 Jedan muškarac godinama je živio s bolovima u leđima i sa stalnim strahom da neće moći prehraniti obitelj. Uz liječničku pomoć počeo je raditi i na tom strahu. Shvatio je koliko je napetosti nosio i prvi put nakon dugo vremena osjetio olakšanje.
+
+
+## Teil 13
 
 Praktični savjeti
 
@@ -139,6 +175,9 @@ Savjet 4: Kad vas nešto boli, posjetite liječnika i istodobno poslušajte što
 
 Savjet 5: Okružite se ljudima koji podržavaju vaš rast.
 
+
+## Teil 14
+
 Konkretni koraci
 
 Korak 1: Večeras zapišite tri negativne rečenice koje najčešće govorite sebi.
@@ -150,6 +189,9 @@ Korak 3: Sutra ujutro stanite pred zrcalo, pogledajte se u oči i izgovorite jed
 Korak 4: Napišite pismo opraštanja jednoj osobi. Ne morate ga poslati.
 
 Korak 5: Sedam dana zaredom ponavljajte vježbu sa zrcalom i bilježite što primjećujete.
+
+
+## Teil 15
 
 Česte greške
 
@@ -163,6 +205,9 @@ Greška 4: Kriviti sebe za bolest. Knjiga nudi put brige o sebi, a ne osjećaj k
 
 Greška 5: Zamijeniti liječenje samo afirmacijama. Najbolji rezultat donosi spoj jednoga i drugoga.
 
+
+## Teil 16
+
 Pitanja za refleksiju
 
 Pitanje 1: Koju rečenicu o sebi najčešće ponavljate, a da toga niste ni svjesni?
@@ -174,11 +219,10 @@ Pitanje 3: Kome biste mogli oprostiti kako biste sebi olakšali život?
 Pitanje 4: Što bi se promijenilo kada biste se prema sebi odnosili kao prema najboljem prijatelju?
 
 Podijelite svoje odgovore u komentarima. Vaše iskustvo može pomoći nekome tko upravo sada traži prvi korak.
-```
 
-## Teil 05
 
-```
+## Teil 17
+
 Moj prvi pogled u zrcalo
 
 Moram biti iskren s vama. Kada sam prvi put čitao ovu knjigu, mnoge ideje zvučale su mi previše jednostavno, gotovo naivno. Ipak sam odlučio isprobati vježbu sa zrcalom, jer nisam imao što izgubiti.
@@ -188,6 +232,9 @@ Prvi put kad sam se pogledao u oči i pokušao reći „Volim te“, riječi su 
 Polako sam počeo primjećivati koliko strogo razgovaram sa sobom tijekom dana. Zbog svake sitne pogreške korio sam se. Kad sam rečenicu „Nikad ništa ne napravim kako treba“ zamijenio rečenicom „Učim i rastem svaki dan“, nešto se u meni opustilo.
 
 Najveću promjenu osjetio sam u odnosima. Shvatio sam da sam dugo očekivao da me drugi usreće. Kad sam se počeo bolje odnositi prema sebi, i moji odnosi s drugima postali su mirniji i iskreniji. Ova knjiga nije čarobni štapić, ali meni je pokazala da u svakom trenutku imam izbor kako ću razgovarati sa sobom.
+
+
+## Teil 18
 
 Najvažniji odnos u vašem životu jest onaj sa sobom
 
@@ -200,4 +247,3 @@ Upravo je to smisao našeg slogana: učite brzo, mislite jasno, rastite svaki da
 I zapamtite: ove lekcije nije dovoljno čuti samo jednom. Vratite se ovom sadržaju nekoliko puta, jer ćete svaki put čuti nešto novo. Svaki put bit ćete malo drugačija osoba. S vremenom će ovi principi postati dio vas, vaš novi način razmišljanja i života.
 
 Ako vam je ovaj sadržaj pomogao, ostavite lajk, pretplatite se na kanal Knjiga Govori i napišite u komentarima koju ćete vježbu prvu isprobati. Hvala vam što ste bili ovdje. Učite brzo, mislite jasno, rastite svaki dan.
-```
